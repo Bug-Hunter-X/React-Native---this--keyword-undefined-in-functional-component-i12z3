@@ -1,0 +1,1 @@
+This error occurs when you use a functional component in React Native and try to access the `this` keyword. In functional components, `this` is undefined. This commonly happens when trying to use lifecycle methods or bind event handlers.
