@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native: using the 'this' keyword within a functional component. Functional components in React Native do not have a 'this' context.  The bug.js file shows the problematic code, while bugSolution.js provides the corrected version using hooks or other appropriate methods.
